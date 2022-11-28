@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669662305 source:e:\mystuff\songo prog c\songo\songo.c
+	<stdio.h>
+	<stdlib.h>
+	"songo.h"
+
+1669662050 e:\mystuff\songo prog c\songo\songo.h
+
